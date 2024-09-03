@@ -7,7 +7,7 @@
   <b><i>Let's connect! Find me on the web.</i></b>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/parth-sheth-119676214/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/parth-sheth/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:ps.parthsheth@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 </p>
