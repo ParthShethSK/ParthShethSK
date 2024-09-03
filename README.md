@@ -1,7 +1,7 @@
 <h1 align="center">Hey there!👋 I'm Parth Sheth</h1>
 
-- 🔭 I’m currently working on **Web3 technologies**
-- 🌱 Learning about **Sequence Network and GANs**
+- 🔭 I’m currently working at **Edgeverve**
+- 🌱 Learning and experimenting with **Generative AI**
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
